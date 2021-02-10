@@ -1,4 +1,4 @@
-n = input("Number: ")
+n = input("number: ")
 n = int(n)
 if n > 0:
     print("n is posative")
